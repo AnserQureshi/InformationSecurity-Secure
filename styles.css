@@ -1,0 +1,23 @@
+* {
+    background-color: skyblue;
+}
+h1,h2,h3 {
+    text-align: center;
+}
+#searched-for {
+    position:relative;
+    height:30px;
+    width:300px;
+    left:500px;
+    top:30px;
+}
+button {
+    position:relative;
+    left:600px;
+    background-color: black;
+    color:white;
+}
+a {
+    background-color: brown;
+    color:yellow;
+}
